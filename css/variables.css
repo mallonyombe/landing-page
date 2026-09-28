@@ -1,0 +1,13 @@
+:root{
+  --ink:#241c18;
+  --muted:#74675f;
+  --paper:#f5f1eb;
+  --paper-2:#ece5dc;
+  --brown:#60463a;
+  --line:rgba(36,28,24,.16);
+  --white:#fffdf9;
+  --max:1440px;
+  --serif:"Cormorant Garamond", Georgia, serif;
+  --sans:"Manrope", Arial, sans-serif;
+  --ease:cubic-bezier(.22,.61,.36,1);
+}
