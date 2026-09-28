@@ -1,4 +1,4 @@
-# EL-ROI’S SPA — v4 final demo direction
+# EL-ROI'S SPA — v4 final demo direction
 
 A photo-led, mobile-first digital spa menu designed for QR-code discovery.
 
@@ -30,7 +30,7 @@ Demo WhatsApp: +27 72 555 0184
 Demo address: 18 Ivy Lane, Sandton, Johannesburg, 2196, South Africa
 
 ## Photography
-Current imagery uses external Unsplash prototype assets for art direction. Production should replace these with EL-ROI’S SPA-owned photography for brand authenticity and licensing control.
+Current imagery uses external Unsplash prototype assets for art direction. Production should replace these with EL-ROI'S SPA-owned photography for brand authenticity and licensing control.
 
 ## Design principle
 The services should be felt visually before they are read. The interface uses editorial typography, generous whitespace, large service photography, restrained motion and a persistent path to booking.
